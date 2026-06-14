@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.5.8",
+      "releasedAt": 1781460000000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/kratos13245-byte/minecraft-merdapack"
+        }
+      },
+      "updateType": "minor"
+    }
+  ]
+}
