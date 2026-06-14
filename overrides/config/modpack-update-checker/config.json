@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "1.0.1",
+  "modpackName": "merdapack",
+  "modpackAuthor": "Gambiarra Studios",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://github.com/kratos13245-byte/minecraft-merdapack",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
